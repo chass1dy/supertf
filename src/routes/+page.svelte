@@ -151,7 +151,7 @@
 	{/if}
 	<div class="footer">
 		<p>
-			Built with 🧡 on <a href="https://developers.cloudflare.com/workers-ai/" target="_blank"
+			Built not with 🧡 on <a href="https://developers.cloudflare.com/workers-ai/" target="_blank"
 				>Workers AI</a
 			>
 		</p>
